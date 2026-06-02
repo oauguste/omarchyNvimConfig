@@ -1,0 +1,1 @@
+/home/fool/.config/omarchy/current/theme/neovim.lua
