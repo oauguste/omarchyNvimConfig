@@ -12,6 +12,9 @@ return {
       markdown = { "prettierd" },
       astro = { "prettierd" },
       ruby = { "rubocop" },
+      c = { "clang_format" },
+      java = { "google-java-format" },
+      cpp = { "clang_format" },
     },
   },
 }
